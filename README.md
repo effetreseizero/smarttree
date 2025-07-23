@@ -1,6 +1,6 @@
 # SmartTree
 
-SmartTree is a mobile application designed for in-field data collection to support wood traceability operations. It provides forestry operators with an easy-to-use tool for smartphones to register and manage tree and timber data throughout the timber marking and cutting phases.
+SmartTree is a web application designed to manage wood traceability operations. It provides forestry operators, logging companies, carpenters, and all stakeholders in the wood supply chain with an easy-to-use web-based tool for recording and managing tree and timber data throughout all phases of timber marking and harvesting, right up to the finished product.
 
 ## Key Features
 
